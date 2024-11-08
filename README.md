@@ -1,4 +1,4 @@
-# Catalog Placements Assignment - Offline
+# Placements Assignment - Offline
 
 **Duration:** 70 mins
 
